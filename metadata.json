@@ -1,0 +1,6 @@
+{
+  "name": "EarnRewards",
+  "description": "Complete modern Earning & Rewards platform with user dashboard, daily tasks, earning plans, deposits, withdrawals, referral program, and secure admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
